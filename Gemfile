@@ -57,3 +57,6 @@ gem "omniauth-google-oauth2", "~> 0.4.1"
 
 # https://github.com/laserlemon/figaro
 gem 'figaro','>= 1.1.0'
+
+# https://github.com/twbs/bootstrap-sass
+gem 'bootstrap-sass', '~> 3.3.6'
