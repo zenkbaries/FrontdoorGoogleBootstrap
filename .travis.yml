@@ -1,0 +1,6 @@
+language: ruby
+
+sudo: required
+
+before_deploy:
+- gem install mime-types -v 2.6.2
