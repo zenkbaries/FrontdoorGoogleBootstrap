@@ -1,3 +1,5 @@
+[![Build Status](https://www.travis-ci.org/zenkbaries/FrontdoorGoogleBootstrap.svg?branch=master)](https://www.travis-ci.org/zenkbaries/FrontdoorGoogleBootstrap)
+
 # FrontdoorGoogleBootstrap
 
 The Ruby on Rails app was developed to demonstrate to use of Omniauth and Google API.
