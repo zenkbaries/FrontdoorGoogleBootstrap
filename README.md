@@ -1,24 +1,8 @@
-# README
+# FrontdoorGoogleBootstrap
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+The Ruby on Rails app was developed to demonstrate to use of Omniauth and Google API.
 
-Things you may want to cover:
 
-* Ruby version
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## Supported Ruby Versions:
+It's tested under 2.3.0
