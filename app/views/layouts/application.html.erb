@@ -2,6 +2,7 @@
 <html>
   <head>
     <title>Google Auth Example App</title>
+    <link rel="stylesheet" href="https://use.fontawesome.com/75a7baf79e.css">
     <%= stylesheet_link_tag    "application", media: "all", "data-turbolinks-track" => true %>
     <%= javascript_include_tag "application", "data-turbolinks-track" => true %>
     <%= csrf_meta_tags %>
@@ -22,7 +23,14 @@
 
         <!-- Collect the nav links, forms, and other content for toggling -->
         <div class="collapse navbar-collapse" id="frontdoorgooglebootstrap-navbar-collapse-1">
-
+          <ul class="nav navbar-nav">
+            <li>
+              <div class="navbar-text">
+                <i class="fa fa-github" aria-hidden="true"></i>
+                <a href="https://github.com/zenkbaries/FrontdoorGoogleBootstrap">Code at Github</a>
+              </div>
+            </li>
+          </ul>
           <ul class="nav navbar-nav navbar-right">
             <!-- <div> -->
               <% if current_user %>
