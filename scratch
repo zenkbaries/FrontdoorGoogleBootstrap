@@ -1,0 +1,3 @@
+<!-- <% @hash.each_pair do |key, value| %> -->
+  <!-- <p>Key: <%= key %> Value: <%= value %></p> -->
+<!-- <% end %> -->
