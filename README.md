@@ -2,7 +2,7 @@
 
 # Sample Google Omniauth app
 
-The Ruby on Rails app was developed to demonstrate to use of Omniauth and Google API.
+The Ruby on Rails app was developed to demonstrate the use of Omniauth and Google API.
 
 
 
